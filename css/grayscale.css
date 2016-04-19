@@ -20,8 +20,10 @@ html {
 }
 @font-face{
     font-family: octomorf;
-    src: url(../fonts/octomorf.otf);
-
+    src: url(../fonts/octomorf.eot),
+    url(../fonts/octomorf.otf),
+    url(../fonts/octomorf.ttf),
+    url(../fonts/octomorf.woff);
 }
 h1,
 h2,
