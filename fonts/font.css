@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Octomorf-Regular';
+  src: url('Octomorf-Regular.woff') format('woff'),
+       url('Octomorf-Regular.ttf') format('truetype'),
+       url('Octomorf-Regular.svg#Octomorf-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'octomorf';
+  src: url('octomorf.eot');
+  src: url('octomorf.woff2') format('woff2'),
+       url('octomorf.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
